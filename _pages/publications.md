@@ -19,6 +19,6 @@ author_profile: true
 <br>Maryam Tabar, <b>Chi-Yang Hsu</b>, Hangzhi Guo, Amirreza Bagherzadehkhorasani, Amulya Yadav. <i>Published in AI4EQ 2021</i>.<!--[[PDF]](https://arxiv.org/abs/2001.06206)-->
 <br>
 <b>[Navigating Ride-Sharing Regulations: How Regulations Changed the ‘Gig’ of Ride-Sharing for Drivers in Taiwan](https://dl.acm.org/doi/10.1145/3290605.330036)</b> 
-<br>Anita Chen, Chien-Wen Yuan, Ning F. Ma Ning , <b>Chi-Yang Hsu</b>, Benjamin V. Hanrahan. <i>Published in CHI 2019</i>.[[PDF]](https://dl.acm.org/doi/10.1145/3290605.3300366)
+<br>Anita Chen, Chien-Wen Yuan, Ning F. Ma Ning , <b>Chi-Yang Hsu</b>, Benjamin V. Hanrahan. <i>Published in CHI 2019</i>. [[PDF]](https://dl.acm.org/doi/10.1145/3290605.3300366)
 <br>
 
