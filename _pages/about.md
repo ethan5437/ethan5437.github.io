@@ -11,14 +11,15 @@ I'm a second year Master's student in [CrowdAI Lab](https://crowd.ist.psu.edu/cr
 
 My research interest spans machine learning and deep learning, mainly focus in Natural Language Processing (NLP), 
 
-LALALA
+<!--LALALA
 ======
-Exmaple Template
+Exmaple Template -->
 
 
-How to edit your site's GitHub repository
+<!-- How to edit your site's GitHub repository -->
+<!-- 
 ------
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/editing-talk.png) -->
 
 
