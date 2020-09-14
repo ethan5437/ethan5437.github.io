@@ -11,7 +11,7 @@ title                    : "Ethan Hsu's Webpage"
 title_separator          : "-"
 name                     : &name "Ethan Hsu"
 description              : &description "I'm a Second Year Master's student in Penn State University and a Research Assistant at Academia Sinica."
-url                      : https://ethan5437.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ethan5437.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ethan5437.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Chi-Yang (Ethan) Hsu"
   avatar           : "Ethan_Profile_02.jpg"
-  bio              : "MS at Penn State University. Research assistant at Academia Sinica"
+  bio              : "MS at Penn State University. RA at Academia Sinica"
   location         : "State College, Pennsylvania"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "cxh5437@psu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/chi-yang-hsu-7b7541156/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
