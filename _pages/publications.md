@@ -15,7 +15,7 @@ author_profile: true
 <b>[Knowledge-Enriched Visual Storytelling](https://arxiv.org/abs/1912.01496)</b> 
 <br>Chao-Chun Hsu, Zi-Yuan Chen, <b>Chi-Yang Hsu</b>, Chih-Chia Li, Tzu-Yuan Lin, Ting-Hao(Kenneth) Huang, Lun-Wei Ku. <i>Published in AAAI 2020</i>.[[PDF]](https://arxiv.org/abs/1912.01496)
 <br>
-<b>[Ameliorating Farmer Suicides by Predicting Crop Price Trends using a Deep LearningApproach]()</b> 
+<b>[Ameliorating Farmer Suicides by Predicting Crop Price Trends using a Deep Learning Approach]()</b> 
 <br>Maryam Tabar, <b>Chi-Yang Hsu</b>, Hangzhi Guo, Amirreza Bagherzadehkhorasani, Amulya Yadav. <i>Published in AI4EQ 2021</i>.<!--[[PDF]](https://arxiv.org/abs/2001.06206)-->
 <br>
 <b>[Navigating Ride-Sharing Regulations: How Regulations Changed the ‘Gig’ of Ride-Sharing for Drivers in Taiwan](https://dl.acm.org/doi/10.1145/3290605.330036)</b> 
