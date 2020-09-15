@@ -44,7 +44,7 @@ Hashtags and Application Sources like Android, etc.
 are two features which we found to be important yet underused in emoji prediction and Twitter sentiment analysis on the whole. 
 To approach this shortcoming and to further understand emoji behavioral patterns, we propose amore balanced dataset by crawling additional Twitter data,
 including timestamp, hashtags, and application source acting as additional attributes to the tweet. 
-<br> [Work in Progress] </small>
+<br> [Class Project] </small>
 </div>
 <div style="clear:both"></div>
 <hr> 
@@ -74,7 +74,7 @@ To help the farmers with the issue of produce price uncertainty, this paper prop
 <small>
 <br>
 Twitter is a mainstream social media platform for users to share information. Inparticular, during the disaster, there are large volume of tweets posted on Twitter withvarious kinds of contents. Fortunately, Twitter provides api that allows users to crawlthe images and captions from their database. Based on the given data, we proposed an image captioning model to generate textual descriptions for disaster-related images. 
-<br> [Work in Progress] </small>[Paper Link]</a></small>
+<br> [Class Project] </small>
 </div>
 <div style="clear:both"></div>
 <hr> 
