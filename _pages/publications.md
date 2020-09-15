@@ -12,7 +12,7 @@ author_profile: true
 <b>[Knowledge-Enriched Visual Storytelling](https://arxiv.org/abs/1912.01496)</b> 
 <br>Chao-Chun Hsu, Zi-Yuan Chen, <b>Chi-Yang Hsu</b>, Chih-Chia Li, Tzu-Yuan Lin, Ting-Hao(Kenneth) Huang, Lun-Wei Ku. 
 <br>
-<i>Published in AAAI 2020</i>.[[PDF]](https://arxiv.org/abs/1912.01496)
+<i>Published in AAAI 2020</i>. [[PDF]](https://arxiv.org/abs/1912.01496)
 <br>
 <b>[Ameliorating Farmer Suicides by Predicting Crop Price Trends using a Deep Learning Approach](https://underline.io/events/24/sessions/464/lecture/2209-ameliorating-farmer-suicides-by-predicting-crop-price-trends-using-a-deep-learning-approach)</b> 
 <br>Maryam Tabar, <b>Chi-Yang Hsu</b>, Hangzhi Guo, Amirreza Bagherzadehkhorasani, Amulya Yadav. 
