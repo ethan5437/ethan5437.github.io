@@ -17,7 +17,7 @@ author_profile: true
 <b>[Ameliorating Farmer Suicides by Predicting Crop Price Trends using a Deep Learning Approach](https://underline.io/events/24/sessions/464/lecture/2209-ameliorating-farmer-suicides-by-predicting-crop-price-trends-using-a-deep-learning-approach)</b> 
 <br>Maryam Tabar, <b>Chi-Yang Hsu</b>, Hangzhi Guo, Amirreza Bagherzadehkhorasani, Amulya Yadav. 
 <br>
-<i>Published in ECAI2020 workshop (AI4EQ 2021)</i>.<!--[[PDF]](https://arxiv.org/abs/2001.06206)-->
+<i>Published in ECAI2020 Workshop (AI4EQ 2021)</i>.<!--[[PDF]](https://arxiv.org/abs/2001.06206)-->
 <br>
 <b>[Navigating Ride-Sharing Regulations: How Regulations Changed the ‘Gig’ of Ride-Sharing for Drivers in Taiwan](https://dl.acm.org/doi/10.1145/3290605.330036)</b> 
 <br>Anita Chen, Chien-Wen Yuan, Ning F. Ma Ning , <b>Chi-Yang Hsu</b>, Benjamin V. Hanrahan. 
