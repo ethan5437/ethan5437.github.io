@@ -53,7 +53,7 @@ including timestamp, hashtags, andapplication source acting as additional attrib
 <img src="/images/Farmer_ML.jpg" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
-<b>A ‘Sourceful’ Twist: Emoji Prediction Based on Sentiment, Hashtags and Application Source</b>
+<b>Ameliorating Farmer Suicides by Predicting Crop Price Trends using a Deep Learning Approach</b>
 <small>
 <br>
 Farmer suicides have become an urgent social problem that governments around the world are trying hard to solve. 
