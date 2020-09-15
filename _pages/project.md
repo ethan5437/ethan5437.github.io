@@ -54,7 +54,7 @@ including timestamp, hashtags, and application source acting as additional attri
 <img src="/images/Farmer_ML.jpg" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
-<b>Ameliorating Farmer Suicides by Predicting Crop Price Trends using a Deep Learning Approach</b>
+<b>Predicting Crop Price Trends using a Deep Learning Approach</b>
 <small>
 <br>
 Farmer suicides have become an urgent social problem that governments around the world are trying hard to solve. 
