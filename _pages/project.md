@@ -37,7 +37,7 @@ KG-Story distills a set of representative words from the input prompts, enriches
 <img src="/images/emoji.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
-<b>A ‘Sourceful’ Twist: Emoji Prediction Based on Sentiment, Hashtags and Application Source</b>
+<b>Emoji Prediction</b>
 <small>
 <br>
 Hashtags and Application Sources like Android, etc. 
