@@ -42,7 +42,8 @@ KG-Story distills a set of representative words from the input prompts, enriches
 <br>
 Hashtags and Application Sources like Android, etc. 
 are two features which we found to be important yet underused in emoji prediction and Twitter sentiment analysis on the whole. 
-To approach this shortcoming and to further understand emoji behavioral patterns, we propose amore balanced dataset by crawling additional Twitter data,
+We showcase the importance of using Twitter features to helpthe model understand the sentiment involved and hence to predict the most suitable emoji for the text.
+To further understand emoji behavioral patterns, we propose amore balanced dataset by crawling additional Twitter data,
 including timestamp, hashtags, and application source acting as additional attributes to the tweet. 
 <br> [Class Project] </small>
 </div>
