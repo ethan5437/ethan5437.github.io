@@ -20,7 +20,7 @@ main:
     
   - title: "CV"
     #url: /cv/
-    url:/files/2020_CV_1.pdf
+    url:/2020_CV_1.pdf
     
   #- title: "Guide"
   #  url: /markdown/
