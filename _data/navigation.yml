@@ -19,8 +19,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    #url: /cv/
-    url:/2020_CV_1.pdf
+    url:/files/2020_CV_1.pdf
     
   #- title: "Guide"
   #  url: /markdown/
