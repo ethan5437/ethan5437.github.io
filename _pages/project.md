@@ -49,6 +49,21 @@ The Covid-19 pandemic has led to large-scale lifestyle changes andincreased soci
 <div style="clear:both"></div>
 <hr> 
 
+<div style="float:left">
+<img src="/images/deepdial_vist_overview.png" align="left" width="200px" height="200px" >
+</div>
+<div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
+<b> Visual Question Generation</b>
+<small><br>
+<i> Lacking of visual question dataset for multiple images, how do machine generate questions?</i>
+<br>
+An engaging and provocative question can open up a great conversation. In this work, we explore a novel scenario: a conversation agent views a set of the user’s photos (for ex-ample, from social media platforms) and asks an engaging question to initiate a conversation with the user.
+<br> <a href="/files/2021-deep-dial.pdf">[PAPER]</a></small>
+</div>
+<div style="clear:both"></div>
+<hr> 
+
+
 
 <div style="float:left">
 <img src="/images/kgstory.png" align="left" width="200px" height="200px" >
