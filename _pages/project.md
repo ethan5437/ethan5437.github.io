@@ -46,7 +46,7 @@ The human evaluation showed that our model can generate longer stories, even whe
 [Abstract] KG-Story, a three-stage framework that allows the story generation model to take advantage of external Knowledge Graphs to produce interesting stories. 
 KG-Story distills a set of representative words from the input prompts, enriches the word set by using ex-ternal knowledge graphs, and finally generates stories based on the enriched word set. 
 <br> 
-<a href="https://arxiv.org/abs/1912.01496">[Paper Link]</a></small>
+<a href="https://arxiv.org/abs/1912.01496">[Paper]</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
