@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a second year Master's student in [CrowdAI Lab](https://crowd.ist.psu.edu/crowd-ai-lab.html) at Penn State University supervised by [Prof. Ting-Hao (Kenneth) Huang](https://crowd.ist.psu.edu/crowd-ai-lab.html). I'm also working as a research assistant in [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io) at Academia Sinica supervised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/).
+I'm a Natural Language Processing(NLP)/Deep Learning Researcher, recently received a Master degree from Penn State University.
+During my year in Penn State, I was honored to join [CrowdAI Lab](https://crowd.ist.psu.edu/crowd-ai-lab.html), supervised by [Prof. Ting-Hao (Kenneth) Huang](https://crowd.ist.psu.edu/crowd-ai-lab.html). I was also working as a research assistant in [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io) at Academia Sinica supervised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/).
 
-My research interest spans machine learning and deep learning, mainly focus on Natural Language Processing (NLP), knowledge graph, and time series prediction. 
+My research interest spans machine learning and deep learning, mainly but not limited to Natural Language Processing (NLP), Vision-to-Langauge, and Computional Social Science. 
 
 <!--LALALA
 ======
