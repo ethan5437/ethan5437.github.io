@@ -11,7 +11,8 @@ author_profile: true
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Visual Storytelling Research #1</b>
 <small><br>
-<dd><i>Like human writers, would machines generate better story if they learn to <q>plot</q> and <q>rework</q>? How do machines mimic such story writing techinques?</i></dd>
+<i>Like human writers, would machines generate better story if they learn to <q>plot</q> and <q>rework</q>? How do machines mimic such story writing techinques?</i>
+<br>
 <br>
 Writing a coherent and engaging story is not easy. Creative writers use their knowledge andworldview to put disjointed elements together to form a coherent storyline, and work andrework iteratively toward perfection. We introduce PR-VIST, a framework that represents the input image se-quence as a story graph in which it finds thebest path to form a storyline. PR-VIST then takes this path and learns to generate the final story via a re-evaluating training process. 
 <br> <a href="https://arxiv.org/pdf/2105.06950.pdf">[PAPER]</a></small>
