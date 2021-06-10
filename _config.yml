@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ethan Hsu's Webpage"
 title_separator          : "-"
 name                     : &name "Ethan Hsu"
-description              : &description "I'm a Second Year Master's student in Penn State University and a Research Assistant at Academia Sinica."
+description              : &description "I'm a newly-graduated Master's student from Penn State University and a Research Assistant at Academia Sinica."
 url                      : "https://ethan5437.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ethan5437.github.io"
@@ -88,6 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "cxh5437@psu.edu"
+  personalemail    : "ethanhsu1000@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
