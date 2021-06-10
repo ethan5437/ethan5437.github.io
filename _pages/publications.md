@@ -48,6 +48,6 @@ author_profile: true
 <b>[Navigating Ride-Sharing Regulations: How Regulations Changed the ‘Gig’ of Ride-Sharing for Drivers in Taiwan]</b> 
 <br>Anita Chen, Chien-Wen Yuan, Ning F. Ma Ning , <b>Chi-Yang Hsu</b>, Benjamin V. Hanrahan. 
 <br>
-<i>In Proceedings of Conference on Human Factors in Computing Systems 2019 (CHI 2019)</i>. [[PDF]](https://dl.acm.org/doi/10.1145/3290605.3300366)
+<i>In Proceedings of Conference on Human Factors in Computing Systems 2019 (CHI 2019)</i>. [[ACL DL]](https://dl.acm.org/doi/10.1145/3290605.3300366)
 <br>
 
