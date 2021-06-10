@@ -109,7 +109,7 @@ including timestamp, hashtags, and application source acting as additional attri
 <img src="/images/Farmer_ML.jpg" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
-<b>Predicting Crop Price Trends using a Deep Learning Approach</b>
+<b>Predicting Crop Price Trends</b>
 <small>
 <br>
 <br>
