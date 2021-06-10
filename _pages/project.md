@@ -94,6 +94,7 @@ KG-Story distills a set of representative words from the input prompts, enriches
 <b>Emoji Prediction</b>
 <small>
 <br>
+<br>
 Hashtags and Application Sources like Android, etc. 
 are two features which we found to be important yet underused in emoji prediction and Twitter sentiment analysis on the whole. 
 We showcase the importance of using Twitter features to helpthe model understand the sentiment involved and hence to predict the most suitable emoji for the text.
@@ -110,6 +111,7 @@ including timestamp, hashtags, and application source acting as additional attri
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Predicting Crop Price Trends using a Deep Learning Approach</b>
 <small>
+<br>
 <br>
 Farmer suicides have become an urgent social problem that governments around the world are trying hard to solve. 
 Most farmers are driven to suicide due to an inability to sell their produce at desired profit levels, which is caused by the widespread uncertainty/fluctuation in produce prices resulting from varying market conditions. 
