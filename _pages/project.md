@@ -14,7 +14,7 @@ author_profile: true
 [Research Questions] <i>Like human writers, would machines generate better story if they learn to <q>plot</q> and <q>rework</q>? How do machine mimic such story writing techinques?</i>
 <br>
 [Abstract] Writing a coherent and engaging story is not easy. Creative writers use their knowledge andworldview to put disjointed elements together to form a coherent storyline, and work andrework iteratively toward perfection. We introduce PR-VIST, a framework that represents the input image se-quence as a story graph in which it finds thebest path to form a storyline. PR-VIST then takes this path and learns to generate the finalstory via a re-evaluating training process. 
-<br> <a href="https://arxiv.org/pdf/2105.06950.pdf">[Paper]</a></small>
+<br> <a href="https://arxiv.org/pdf/2105.06950.pdf">[PAPER]</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
@@ -36,6 +36,21 @@ The human evaluation showed that our model can generate longer stories, even whe
 <hr> 
 
 <div style="float:left">
+<img src="/images/covid_sentiment_analysis.pdf" align="left" width="200px" height="200px" >
+</div>
+<div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
+<b> COVID-19 X Essential Workers</b>
+<small><br>
+[Research Questions] <i> How do we assess essential workers' mental well-being? How are their mental status as compared to general population?</i>
+<br>
+[Abstract] The Covid-19 pandemic has led to large-scale lifestyle changes andincreased social isolation and stress on a societal level. This hashad a unique impact on US “essential workers” (EWs). We examine the use of Twitter by EWs as a step toward understanding the pandemic’simpact on their mental well-being, as compared to the populationas a whole. 
+<br> <a href="/files/CHI_LBW_2021__1column.pdf">[PAPER]</a></small>
+</div>
+<div style="clear:both"></div>
+<hr> 
+
+
+<div style="float:left">
 <img src="/images/kgstory.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
@@ -46,7 +61,7 @@ The human evaluation showed that our model can generate longer stories, even whe
 [Abstract] KG-Story, a three-stage framework that allows the story generation model to take advantage of external Knowledge Graphs to produce interesting stories. 
 KG-Story distills a set of representative words from the input prompts, enriches the word set by using ex-ternal knowledge graphs, and finally generates stories based on the enriched word set. 
 <br> 
-<a href="https://arxiv.org/abs/1912.01496">[Paper]</a></small>
+<a href="https://arxiv.org/abs/1912.01496">[PAPER]</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
@@ -80,7 +95,7 @@ Farmer suicides have become an urgent social problem that governments around the
 Most farmers are driven to suicide due to an inability to sell their produce at desired profit levels, which is caused by the widespread uncertainty/fluctuation in produce prices resulting from varying market conditions. 
 To help the farmers with the issue of produce price uncertainty, this paper proposes a deep learning algorithm for prediction of future produce price trends (Increase, Decrease, Stable) based on past pricing and volume pattern.
 <br> 
-<a href="https://underline.io/events/24/sessions/464/lecture/2209-ameliorating-farmer-suicides-by-predicting-crop-price-trends-using-a-deep-learning-approach">[Paper]</a></small>
+<a href="https://underline.io/events/24/sessions/464/lecture/2209-ameliorating-farmer-suicides-by-predicting-crop-price-trends-using-a-deep-learning-approach">[PAPER]</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
