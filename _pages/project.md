@@ -99,7 +99,7 @@ are two features which we found to be important yet underused in emoji predictio
 We showcase the importance of using Twitter features to helpthe model understand the sentiment involved and hence to predict the most suitable emoji for the text.
 To further understand emoji behavioral patterns, we propose a more balanced dataset by crawling additional Twitter data,
 including timestamp, hashtags, and application source acting as additional attributes to the tweet. 
-<br> [Class Project] </small>
+<br> [Course Project] </small>
 </div>
 <div style="clear:both"></div>
 <hr> 
@@ -129,7 +129,7 @@ To help the farmers with the issue of produce price uncertainty, this paper prop
 <small>
 <br>
 Twitter is a mainstream social media platform for users to share information. Inparticular, during the disaster, there are large volume of tweets posted on Twitter withvarious kinds of contents. Fortunately, Twitter provides api that allows users to crawlthe images and captions from their database. Based on the given data, we proposed an image captioning model to generate textual descriptions for disaster-related images. 
-<br> [Class Project] </small>
+<br> [Course Project] </small>
 </div>
 <div style="clear:both"></div>
 <hr> 
