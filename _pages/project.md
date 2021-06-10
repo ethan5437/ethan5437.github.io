@@ -11,10 +11,10 @@ author_profile: true
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Plot and Rework: Modeling Storylines for Visual Storytelling</b>
 <small><br>
-[Research Questions] <i>Like human writers, would machines generate better story if they learn to <q>plot<\q> and <q>rework<\q>?</i>
+[Research Questions] <i>Like human writers, would machines generate better story if they learn to <q>plot</q> and <q>rework</q>?</i>
 <br>
 [Abstract] Writing a coherent and engaging story is not easy. Creative writers use their knowledge andworldview to put disjointed elements together to form a coherent storyline, and work andrework iteratively toward perfection. We introduce PR-VIST, a framework that represents the input image se-quence as a story graph in which it finds thebest path to form a storyline. PR-VIST then takes this path and learns to generate the finalstory via a re-evaluating training process. 
-<br> [[PDF]](https://arxiv.org/pdf/2105.06950.pdf)</small>
+<br> <a href="https://arxiv.org/pdf/2105.06950.pdf">[Paper]</small>
 </div>
 <div style="clear:both"></div>
 <hr> 
@@ -30,7 +30,7 @@ author_profile: true
 [Abstract] Distilled nouns and verbs from a sequence of images and utilized knowledge graph to find the important relations between nouns. 
 Dynamically performed recurrent Transformer to generated stories with diverse length. 
 The human evaluation showed that our model can generate longer stories, even when the input images are incohert.
-<br> [[DEMO]](https://doraemon.iis.sinica.edu.tw/acldemo/index.html) [[VIDEO]](https://youtu.be/-uF8IV6T1NU) </small>
+<br> <a href="https://doraemon.iis.sinica.edu.tw/acldemo/index.html">[DEMO] <a href="https://youtu.be/-uF8IV6T1NU">[VIDEO]</small>
 </div>
 <div style="clear:both"></div>
 <hr> 
@@ -80,7 +80,7 @@ Farmer suicides have become an urgent social problem that governments around the
 Most farmers are driven to suicide due to an inability to sell their produce at desired profit levels, which is caused by the widespread uncertainty/fluctuation in produce prices resulting from varying market conditions. 
 To help the farmers with the issue of produce price uncertainty, this paper proposes a deep learning algorithm for prediction of future produce price trends (Increase, Decrease, Stable) based on past pricing and volume pattern.
 <br> 
-<a href="https://underline.io/events/24/sessions/464/lecture/2209-ameliorating-farmer-suicides-by-predicting-crop-price-trends-using-a-deep-learning-approach">[Paper Link]</a></small>
+<a href="https://underline.io/events/24/sessions/464/lecture/2209-ameliorating-farmer-suicides-by-predicting-crop-price-trends-using-a-deep-learning-approach">[Paper]</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
