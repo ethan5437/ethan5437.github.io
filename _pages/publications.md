@@ -28,7 +28,7 @@ author_profile: true
 <br>
 
 <b>Let's Talk! Striking Up Conversations via Conversational Visual Question Generation</b> 
-<br>Shih-Han Chan, Tsai-Lun Yang, Yun-Wei Chu, <abbr title="That's ME!">Chi-Yang Hsu</abbr>, Ting-Hao K. Huang, Yu-Shian Chiu and Lun-Wei Ku
+<br>Shih-Han Chan, Tsai-Lun Yang, Yun-Wei Chu, <u>Chi-Yang Hsu</u>, Ting-Hao K. Huang, Yu-Shian Chiu and Lun-Wei Ku
 <br>
 <i>AAAI 2021 Workshop (W22) on Reasoning and Learning for Human-Machine Dialogues (Deep-Dial 2021)</i>.  [[PDF]](/files/2021-deep-dial.pdf)
 <br>
