@@ -36,7 +36,7 @@ The human evaluation showed that our model can generate longer stories, even whe
 <hr> 
 
 <div style="float:left">
-<img src="/images/covid_sentiment_analysis.pdf" align="left" width="200px" height="200px" >
+<img src="/images/covid_sentiment_analysis.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b> COVID-19 X Essential Workers</b>
