@@ -130,6 +130,7 @@ To help the farmers with the issue of produce price uncertainty, this paper prop
 <b>Automatic Caption Generation for Twitter Disaster Scene</b>
 <small>
 <br>
+<br>
 Twitter is a mainstream social media platform for users to share information. Inparticular, during the disaster, there are large volume of tweets posted on Twitter withvarious kinds of contents. Fortunately, Twitter provides api that allows users to crawlthe images and captions from their database. Based on the given data, we proposed an image captioning model to generate textual descriptions for disaster-related images. 
 <br> [Course Project] </small>
 </div>
