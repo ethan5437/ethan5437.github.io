@@ -6,17 +6,31 @@ author_profile: true
 ---
 
 <div style="float:left">
+<img src="/images/PR_VIST_overview.png" align="left" width="200px" height="200px" >
+</div>
+<div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
+<b>Plot and Rework: Modeling Storylines for Visual Storytelling</b>
+<small><br>
+[Research Questions] <i>Like human writers, would machines generate better story if they learn to <q>plot<\q> and <q>rework<\q>?</i>
+<br>
+[Abstract] Writing a coherent and engaging story is not easy. Creative writers use their knowledge andworldview to put disjointed elements together to form a coherent storyline, and work andrework iteratively toward perfection. We introduce PR-VIST, a framework that represents the input image se-quence as a story graph in which it finds thebest path to form a storyline. PR-VIST then takes this path and learns to generate the finalstory via a re-evaluating training process. 
+<br> [[PDF]](https://arxiv.org/pdf/2105.06950.pdf)</small>
+</div>
+<div style="clear:both"></div>
+<hr> 
+
+<div style="float:left">
 <img src="/images/kgstory++.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Stretch-VST: Getting Flexible With Visual Stories</b>
 <small><br>
-[Research Questions] <i>With a training data that only contain five-sentence stories, how do we prolong the stories? What happen when the stories are prolonged? </i>
+[Research Questions] <i>With a training data that only contain five-sentence stories, how do we prolong the stories? </i>
 <br>
 [Abstract] Distilled nouns and verbs from a sequence of images and utilized knowledge graph to find the important relations between nouns. 
 Dynamically performed recurrent Transformer to generated stories with diverse length. 
 The human evaluation showed that our model can generate longer stories, even when the input images are incohert.
-<br> [Work in Progress]</small>
+<br> [[DEMO]](https://doraemon.iis.sinica.edu.tw/acldemo/index.html) [[VIDEO]](https://youtu.be/-uF8IV6T1NU) </small>
 </div>
 <div style="clear:both"></div>
 <hr> 
@@ -27,7 +41,9 @@ The human evaluation showed that our model can generate longer stories, even whe
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Knowledge-Enriched Visual Storytelling (KG-Story)</b>
 <small><br>
-KG-Story, a three-stage framework that allows the story generation model to take advantage of external Knowledge Graphs to produce interesting stories. 
+[Research Questions] <i> End-to-end Models are limited to the vocabulary and knowledge in a single training dataset, how do we take advantage of external Knowledge Graphs to produce interesting stories? </i>
+<br>
+[Abstract] KG-Story, a three-stage framework that allows the story generation model to take advantage of external Knowledge Graphs to produce interesting stories. 
 KG-Story distills a set of representative words from the input prompts, enriches the word set by using ex-ternal knowledge graphs, and finally generates stories based on the enriched word set. 
 <br> 
 <a href="https://arxiv.org/abs/1912.01496">[Paper Link]</a></small>
