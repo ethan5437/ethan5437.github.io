@@ -11,7 +11,7 @@ author_profile: true
 
 <b>[Plot and Rework: Modeling Storylines for Visual Storytelling]</b> 
 <br>
-<p><u>Chi-Yang Hsu</u>, Yun-Wei Chu, Ting-Hao (Kenneth) Huang, Lun-Wei Ku <\p>
+<p><u>Chi-Yang Hsu</u>, Yun-Wei Chu, Ting-Hao (Kenneth) Huang, Lun-Wei Ku </p>
 <br>
 <i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021 Findings)</i>. [[arXiv]](https://arxiv.org/abs/2105.06950?context=cs.AI) [[PDF]](https://arxiv.org/pdf/2105.06950)
 <br>
