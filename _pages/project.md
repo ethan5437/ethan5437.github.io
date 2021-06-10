@@ -9,7 +9,7 @@ author_profile: true
 <img src="/images/PR_VIST_overview.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
-<b>Plot and Rework: Modeling Storylines for Visual Storytelling</b>
+<b>Visual Storytelling Research #1</b>
 <small><br>
 [Research Questions] <i>Like human writers, would machines generate better story if they learn to <q>plot</q> and <q>rework</q>? How do machine mimic such story writing techinques?</i>
 <br>
@@ -23,7 +23,7 @@ author_profile: true
 <img src="/images/stretch_vist_1.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
-<b>Stretch-VST: Getting Flexible With Visual Stories</b>
+<b>Visual Storytelling Demo Research </b>
 <small><br>
 [Research Questions] <i>With a training data that only contain five-sentence stories, how do we prolong the stories? </i>
 <br>
@@ -39,7 +39,7 @@ The human evaluation showed that our model can generate longer stories, even whe
 <img src="/images/kgstory.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
-<b>Knowledge-Enriched Visual Storytelling (KG-Story)</b>
+<b>Visual Storytelling Research #2</b>
 <small><br>
 [Research Questions] <i> End-to-end Models are limited to the vocabulary and knowledge in a single training dataset, how do we take advantage of external Knowledge Graphs to produce interesting stories? </i>
 <br>
