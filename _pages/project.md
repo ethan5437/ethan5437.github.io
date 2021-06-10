@@ -26,7 +26,8 @@ Writing a coherent and engaging story is not easy. Creative writers use their kn
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Visual Storytelling Demo Research </b>
 <small><br>
-<dd><i>With a training data that only contain five-sentence stories, how do we prolong the stories? </i></dd>
+<i>With a training data that only contain five-sentence stories, how do we prolong the stories? </i>
+<br>
 <br>
 Distilled nouns and verbs from a sequence of images and utilized knowledge graph to find the important relations between nouns. 
 Dynamically performed recurrent Transformer to generated stories with diverse length. 
@@ -42,7 +43,8 @@ The human evaluation showed that our model can generate longer stories, even whe
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b> COVID-19 X Essential Workers</b>
 <small><br>
-<dd><i> How do we assess essential workers' mental well-being? How are their mental status as compared to general population?</i></dd>
+<i> How do we assess essential workers' mental well-being? How are their mental status as compared to general population?</i>
+<br>
 <br>
 The Covid-19 pandemic has led to large-scale lifestyle changes andincreased social isolation and stress on a societal level. This hashad a unique impact on US “essential workers” (EWs). We examine the use of Twitter by EWs as a step toward understanding the pandemic’simpact on their mental well-being, as compared to the populationas a whole. 
 <br> <a href="/files/CHI_LBW_2021__1column.pdf">[PAPER]</a></small>
@@ -56,7 +58,8 @@ The Covid-19 pandemic has led to large-scale lifestyle changes andincreased soci
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b> Visual Question Generation</b>
 <small><br>
-<dd><i> Lacking of visual question dataset for multiple images, how do machine generate questions?</i></dd>
+<i> Lacking of visual question dataset for multiple images, how do machine generate questions?</i>
+<br>
 <br>
 An engaging and provocative question can open up a great conversation. In this work, we explore a novel scenario: a conversation agent views a set of the user’s photos (for ex-ample, from social media platforms) and asks an engaging question to initiate a conversation with the user.
 <br> <a href="/files/2021-deep-dial.pdf">[PAPER]</a></small>
@@ -73,6 +76,7 @@ An engaging and provocative question can open up a great conversation. In this w
 <b>Visual Storytelling Research #2</b>
 <small><br>
 <i> End-to-end Models are limited to the vocabulary and knowledge in a single training dataset, how do we take advantage of external Knowledge Graphs to produce interesting stories? </i>
+<br>
 <br>
 KG-Story, a three-stage framework that allows the story generation model to take advantage of external Knowledge Graphs to produce interesting stories. 
 KG-Story distills a set of representative words from the input prompts, enriches the word set by using ex-ternal knowledge graphs, and finally generates stories based on the enriched word set. 
