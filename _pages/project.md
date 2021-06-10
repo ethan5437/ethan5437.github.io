@@ -14,7 +14,7 @@ author_profile: true
 [Research Questions] <i>Like human writers, would machines generate better story if they learn to <q>plot</q> and <q>rework</q>?</i>
 <br>
 [Abstract] Writing a coherent and engaging story is not easy. Creative writers use their knowledge andworldview to put disjointed elements together to form a coherent storyline, and work andrework iteratively toward perfection. We introduce PR-VIST, a framework that represents the input image se-quence as a story graph in which it finds thebest path to form a storyline. PR-VIST then takes this path and learns to generate the finalstory via a re-evaluating training process. 
-<br> <a href="https://arxiv.org/pdf/2105.06950.pdf">[Paper]</small>
+<br> <a href="https://arxiv.org/pdf/2105.06950.pdf">[Paper]</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
@@ -30,7 +30,7 @@ author_profile: true
 [Abstract] Distilled nouns and verbs from a sequence of images and utilized knowledge graph to find the important relations between nouns. 
 Dynamically performed recurrent Transformer to generated stories with diverse length. 
 The human evaluation showed that our model can generate longer stories, even when the input images are incohert.
-<br> <a href="https://doraemon.iis.sinica.edu.tw/acldemo/index.html">[DEMO] <a href="https://youtu.be/-uF8IV6T1NU">[VIDEO]</small>
+<br> <a href="https://doraemon.iis.sinica.edu.tw/acldemo/index.html">[DEMO]</a> <a href="https://youtu.be/-uF8IV6T1NU">[VIDEO]</a></small>
 </div>
 <div style="clear:both"></div>
 <hr> 
