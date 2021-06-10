@@ -4,22 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<html>
-<head>
-<style>
-underline {
-  text-decoration: underline;
-}
-</style>
-</head>
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 <b>[Plot and Rework: Modeling Storylines for Visual Storytelling]</b> 
 <br>
-<h3>Chi-Yang Hsu</h3>, Yun-Wei Chu, Ting-Hao (Kenneth) Huang, Lun-Wei Ku
+<abbr title="That's ME!">Chi-Yang Hsu</abbr>, Yun-Wei Chu, Ting-Hao (Kenneth) Huang, Lun-Wei Ku
 <br>
 <i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021 Findings)</i>. [[arXiv]](https://arxiv.org/abs/2105.06950?context=cs.AI) [[PDF]](https://arxiv.org/pdf/2105.06950)
 <br>
@@ -59,4 +50,3 @@ underline {
 <br>
 <i>In Proceedings of Conference on Human Factors in Computing Systems 2019 (CHI 2019)</i>. [[ACL DL]](https://dl.acm.org/doi/10.1145/3290605.3300366)
 <br>
-<html>
