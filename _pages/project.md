@@ -11,9 +11,9 @@ author_profile: true
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Visual Storytelling Research #1</b>
 <small><br>
-<i>Like human writers, would machines generate better story if they learn to <q>plot</q> and <q>rework</q>? How do machines mimic such story writing techinques?</i>
+<dd><i>Like human writers, would machines generate better story if they learn to <q>plot</q> and <q>rework</q>? How do machines mimic such story writing techinques?</i></dd>
 <br>
-Writing a coherent and engaging story is not easy. Creative writers use their knowledge andworldview to put disjointed elements together to form a coherent storyline, and work andrework iteratively toward perfection. We introduce PR-VIST, a framework that represents the input image se-quence as a story graph in which it finds thebest path to form a storyline. PR-VIST then takes this path and learns to generate the finalstory via a re-evaluating training process. 
+Writing a coherent and engaging story is not easy. Creative writers use their knowledge andworldview to put disjointed elements together to form a coherent storyline, and work andrework iteratively toward perfection. We introduce PR-VIST, a framework that represents the input image se-quence as a story graph in which it finds thebest path to form a storyline. PR-VIST then takes this path and learns to generate the final story via a re-evaluating training process. 
 <br> <a href="https://arxiv.org/pdf/2105.06950.pdf">[PAPER]</a></small>
 </div>
 <div style="clear:both"></div>
@@ -25,7 +25,7 @@ Writing a coherent and engaging story is not easy. Creative writers use their kn
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Visual Storytelling Demo Research </b>
 <small><br>
-<i>With a training data that only contain five-sentence stories, how do we prolong the stories? </i>
+<dd><i>With a training data that only contain five-sentence stories, how do we prolong the stories? </i></dd>
 <br>
 Distilled nouns and verbs from a sequence of images and utilized knowledge graph to find the important relations between nouns. 
 Dynamically performed recurrent Transformer to generated stories with diverse length. 
@@ -41,7 +41,7 @@ The human evaluation showed that our model can generate longer stories, even whe
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b> COVID-19 X Essential Workers</b>
 <small><br>
-<i> How do we assess essential workers' mental well-being? How are their mental status as compared to general population?</i>
+<dd><i> How do we assess essential workers' mental well-being? How are their mental status as compared to general population?</i></dd>
 <br>
 The Covid-19 pandemic has led to large-scale lifestyle changes andincreased social isolation and stress on a societal level. This hashad a unique impact on US “essential workers” (EWs). We examine the use of Twitter by EWs as a step toward understanding the pandemic’simpact on their mental well-being, as compared to the populationas a whole. 
 <br> <a href="/files/CHI_LBW_2021__1column.pdf">[PAPER]</a></small>
@@ -55,7 +55,7 @@ The Covid-19 pandemic has led to large-scale lifestyle changes andincreased soci
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b> Visual Question Generation</b>
 <small><br>
-<i> Lacking of visual question dataset for multiple images, how do machine generate questions?</i>
+<dd><i> Lacking of visual question dataset for multiple images, how do machine generate questions?</i></dd>
 <br>
 An engaging and provocative question can open up a great conversation. In this work, we explore a novel scenario: a conversation agent views a set of the user’s photos (for ex-ample, from social media platforms) and asks an engaging question to initiate a conversation with the user.
 <br> <a href="/files/2021-deep-dial.pdf">[PAPER]</a></small>
