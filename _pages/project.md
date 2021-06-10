@@ -11,9 +11,9 @@ author_profile: true
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Stretch-VST: Getting Flexible With Visual Stories</b>
 <small><br>
-<i>With a training data that only contain five-sentence stories, how do we prolong the stories? What happen when the stories are prolonged? </i>
+[Research Questions] <i>With a training data that only contain five-sentence stories, how do we prolong the stories? What happen when the stories are prolonged? </i>
 <br>
-Distilled nouns and verbs from a sequence of images and utilized knowledge graph to find the important relations between nouns. 
+[Abstract] Distilled nouns and verbs from a sequence of images and utilized knowledge graph to find the important relations between nouns. 
 Dynamically performed recurrent Transformer to generated stories with diverse length. 
 The human evaluation showed that our model can generate longer stories, even when the input images are incohert.
 <br> [Work in Progress]</small>
