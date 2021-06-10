@@ -12,13 +12,13 @@ author_profile: true
 <b>[Plot and Rework: Modeling Storylines for Visual Storytelling]</b> 
 <br><b>Chi-Yang Hsu</b>, Yun-Wei Chu, Ting-Hao (Kenneth) Huang, Lun-Wei Ku
 <br>
-<i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021 Findings)</i>. [[PDF]](https://arxiv.org/pdf/2105.06950)
+<i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021 Findings)</i>. [[arXiv]](https://arxiv.org/abs/2105.06950?context=cs.AI) [[PDF]](https://arxiv.org/pdf/2105.06950)
 <br>
 
 <b>[Stretch-VST: Getting Flexible With Visual Stories]</b> 
 <br><b>Chi-Yang Hsu</b>, Yun-Wei Chu, Tsai-Lun Yang, Ting-Hao (Kenneth) Huang, Lun-Wei Ku
 <br>
-<i>ACL-IJCNLP Demo Track 2021 (ACL Demo 2021)</i>.  [[DEMO]](https://doraemon.iis.sinica.edu.tw/acldemo/index.html) [[VIDEO]](hhttps://youtu.be/-uF8IV6T1NU) <!-- [[PDF]]() -->
+<i>ACL-IJCNLP Demo Track 2021 (ACL Demo 2021)</i>.  [[DEMO]](https://doraemon.iis.sinica.edu.tw/acldemo/index.html) [[VIDEO]](https://youtu.be/-uF8IV6T1NU) <!-- [[PDF]]() -->
 <br>
 
 <b>[Using Tweets to Assess Mental Well-being of Essential Workers  During the COVID-19 Pandemic]</b> 
@@ -36,7 +36,7 @@ author_profile: true
 <b>[Knowledge-Enriched Visual Storytelling]</b> 
 <br>Chao-Chun Hsu, Zi-Yuan Chen, <b>Chi-Yang Hsu</b>, Chih-Chia Li, Tzu-Yuan Lin, Ting-Hao(Kenneth) Huang, Lun-Wei Ku. 
 <br>
-<i>In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020)</i>. [[PDF]](https://arxiv.org/abs/1912.01496)
+<i>In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020)</i>. [[arXiv]](https://arxiv.org/abs/1912.01496) [[PDF]](https://arxiv.org/abs/1912.01496.pdf)
 <br>
 
 <b>[Ameliorating Farmer Suicides by Predicting Crop Price Trends using a Deep Learning Approach]</b> 
