@@ -11,7 +11,7 @@ author_profile: true
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Stretch-VST: Getting Flexible With Visual Stories</b>
 <small><br>
-<b>TLDR<\b>Make it longer!!! If the training data only contain five-sentence stories, how do we prolong the stories? What would happen if the stories are prolonged?
+<b>TLDR</b>Make it longer!!! If the training data only contain five-sentence stories, how do we prolong the stories? What would happen if the stories are prolonged?
 <br>
 Distilled nouns and verbs from a sequence of images and utilized knowledge graph to find the important relations between nouns. 
 Dynamically performed recurrent Transformer to generated stories with diverse length. 
