@@ -20,7 +20,7 @@ author_profile: true
 <hr> 
 
 <div style="float:left">
-<img src="/images/kgstory++.png" align="left" width="200px" height="200px" >
+<img src="/images/stretch_vist.png" align="left" width="200px" height="200px" >
 </div>
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b>Stretch-VST: Getting Flexible With Visual Stories</b>
