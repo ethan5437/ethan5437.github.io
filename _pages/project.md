@@ -43,7 +43,7 @@ The human evaluation showed that our model can generate longer stories, even whe
 <div style="margin:8px;float:left;width:75%;text-align:justify;line-height:18px">
 <b> COVID-19 X Essential Workers</b>
 <small><br>
-<i> How do we assess essential workers' mental well-being? How are their mental status as compared to general population?</i>
+<i> How do we assess essential workers' mental well-being?</i>
 <br>
 <br>
 The Covid-19 pandemic has led to large-scale lifestyle changes andincreased social isolation and stress on a societal level. This hashad a unique impact on US “essential workers” (EWs). We examine the use of Twitter by EWs as a step toward understanding the pandemic’simpact on their mental well-being, as compared to the populationas a whole. 
