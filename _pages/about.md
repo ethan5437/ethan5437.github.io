@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello :)
+<b>Hello :)</b>
 
 I'm a Natural Language Processing (NLP) / Deep Learning Researcher, recently received a Master degree from Penn State University.
 During my year at Penn State, I was very honored to join [CrowdAI Lab](https://crowd.ist.psu.edu/crowd-ai-lab.html), supervised by [Prof. Ting-Hao (Kenneth) Huang](https://crowd.ist.psu.edu/crowd-ai-lab.html). Meanwhile, I was also actively working with [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io) at Academia Sinica, supervised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/). It has been a fantastic journey working with talented members from both labs, and I have learned many valuable research skills and experience. 
 
 (I'm now in the gap year between my Master's and Ph.D. degrees, and I'm actively looking for a summer research internship!!)
 
-Research Interest
+<b>Research Interest</b>
 
 I am broadly interested in machine learning, primarily in (but not limited to) NLP, Vision-to-Langauge, and Computational Social Science. My past projects mainly focused on vision-to-language generation and evaluation, machine learning in mental health, and social media analysis. 
 
