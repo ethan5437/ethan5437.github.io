@@ -15,7 +15,8 @@ During my year at Penn State, I was very honored to join [CrowdAI Lab](https://c
 ** Update: I'm now in the gap year between my Master's and Ph.D. degrees, and I'm looking for a summer research internship!! **
 <br>
 <br>
-<p style="color:orange"><b>Research Interest</b></p>
+<b>Research Interest</b>
+<br>
 I am broadly interested in machine learning, primarily in (but not limited to) NLP, Vision-to-Langauge, and Computational Social Science. My past projects mainly focused on vision-to-language generation and evaluation, machine learning in mental health, and social media analysis. 
 <br>
 <br>
