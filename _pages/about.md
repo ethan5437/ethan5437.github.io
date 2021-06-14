@@ -19,7 +19,7 @@ During my year at Penn State, I was very honored to join [CrowdAI Lab](https://c
 I am broadly interested in machine learning, primarily in (but not limited to) NLP, Vision-to-Langauge, and Computational Social Science. My past projects mainly focused on vision-to-language generation and evaluation, machine learning in mental health, and social media analysis. 
 <br>
 <br>
-If you have any questions regarding my researches, jobs, or even hobbies!!! please do not hesitate to contact me!!! :)
+If you have any questions regarding my researches and jobs (or even hobbies!!!), please do not hesitate to contact me!!! :)
 
 <!--LALALA
 ======
