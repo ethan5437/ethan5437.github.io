@@ -24,7 +24,7 @@ author_profile: true
 <b>Using Tweets to Assess Mental Well-being of Essential Workers  During the COVID-19 Pandemic</b> 
 <br>Johnna Blair, <u>Chi-Yang Hsu</u>, Ling Qiu, Shih-Hong Huang, Ting-Hao K. Huang, and Saeed Abdullah.
 <br>
-Media Coverage: [[PSU News]](https://news.psu.edu/story/660822/2021/06/09/research/essential-workers-tweets-show-surprising-positivity-during-pandemic)
++ Media Coverage: [[PSU News]](https://news.psu.edu/story/660822/2021/06/09/research/essential-workers-tweets-show-surprising-positivity-during-pandemic)
 <br>
 <i>In CHI'21 Late-Breaking Work on Human Factors in Computing Systems (CHI LBW 2021) </i>. [[ACM DL]](https://dl.acm.org/doi/abs/10.1145/3411763.3451612) [[PDF]](/files/CHI_LBW_2021__1column.pdf)
 <br>
