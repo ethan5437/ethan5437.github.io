@@ -12,7 +12,7 @@ In Spring 2021, I have graduated from Penn State University ([WE ARE!!](https://
 During my year at Penn State, I was very honored to join [CrowdAI Lab](https://crowd.ist.psu.edu/crowd-ai-lab.html), supervised by [Prof. Ting-Hao (Kenneth) Huang](https://crowd.ist.psu.edu/crowd-ai-lab.html). Meanwhile, I was also actively working with [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io) at Academia Sinica, supervised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/).
 <br>
 <br>
-[[RESUME]](/files/2021_Resume.pdf) [[CV]](/files/2021_CV.pdf)
+&#de5d83; [[RESUME]](/files/2021_Resume.pdf) [[CV]](/files/2021_CV.pdf)
 <br>
 <br>
 <b>&#x1F4D9; Research Interest</b>
