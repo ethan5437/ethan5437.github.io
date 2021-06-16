@@ -46,7 +46,7 @@ The human evaluation showed that our model can generate longer stories, even whe
 <!--<i> How do we assess essential workers' mental well-being?</i>
 <br> -->
 <br>
-The Covid-19 pandemic has led to large-scale lifestyle changes andincreased social isolation and stress on a societal level. This hashad a unique impact on US “essential workers” (EWs). We examine the use of Twitter by EWs as a step toward understanding the pandemic’simpact on their mental well-being, as compared to the populationas a whole. 
+The Covid-19 pandemic has led to large-scale lifestyle changes andincreased social isolation and stress on a societal level. This hashad a unique impact on US “essential workers” (EWs). We examine the use of Twitter by EWs as a step toward understanding the pandemic’s impact on their mental well-being, as compared to the populationas a whole. 
 <br> <a href="/files/CHI_LBW_2021__1column.pdf">[PAPER]</a></small>
 </div>
 <div style="clear:both"></div>
@@ -131,7 +131,7 @@ To help the farmers with the issue of produce price uncertainty, this paper prop
 <small>
 <br>
 <br>
-Twitter is a mainstream social media platform for users to share information. Inparticular, during the disaster, there are large volume of tweets posted on Twitter withvarious kinds of contents. Fortunately, Twitter provides api that allows users to crawlthe images and captions from their database. Based on the given data, we proposed an image captioning model to generate textual descriptions for disaster-related images. 
+Twitter is a mainstream social media platform for users to share information. Inparticular, during the disaster, there are large volume of tweets posted on Twitter with various kinds of contents. Fortunately, Twitter provides api that allows users to crawlthe images and captions from their database. Based on the given data, we proposed an image captioning model to generate textual descriptions for disaster-related images. 
 <br> [Course Project] </small>
 </div>
 <div style="clear:both"></div>
