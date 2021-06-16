@@ -40,7 +40,7 @@ author_profile: true
 <br>
 <i>In Proceedings of Conference on Human Factors in Computing Systems 2019 (CHI 2019)</i>. [[ACM DL]](https://dl.acm.org/doi/10.1145/3290605.3300366) [[PDF]](/files/2018_CHI___Uber_Taiwan.pdf)
 <br>
-
+<br>
 <h1>Workshop Papers</h1>
 <b>Let's Talk! Striking Up Conversations via Conversational Visual Question Generation</b> 
 <br>Shih-Han Chan, Tsai-Lun Yang, Yun-Wei Chu, <u>Chi-Yang Hsu</u>, Ting-Hao K. Huang, Yu-Shian Chiu and Lun-Wei Ku
