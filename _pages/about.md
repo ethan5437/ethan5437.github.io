@@ -21,7 +21,7 @@ I am broadly interested in machine learning, primarily in (but not limited to) N
 If you have any questions regarding my researches and jobs (or even hobbies!!!), please do not hesitate to contact me!!! :)
 <br>
 <br>
-<p style="color:#F64668">** Update: I'm now in the gap year between my Master's and Ph.D. degrees, and I'm now looking for a summer research internship!! :) **</p>
+<p style="color:#F64668">** Update: I'm now on the gap year between my Master's and Ph.D. degrees, and I'm now looking for a summer research internship!! :) **</p>
 
 <!--LALALA
 ======
