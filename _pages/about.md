@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 <!--<p style="color:orange"><b>Hello</b></p> -->
-In Spring 2021, I have graduated from Penn State University ([WE ARE!!](https://www.psu.edu/)) with a Master's degree in Information Science and Technology.
+I'm working as a research intern at University of Washington with [Behavioral Data Science Lab](https://behavioral-data.github.io/), supervised by Professor [Tim Althoff](http://timalthoff.de/). 
+<br>
+I have received a Master's degree at Penn State University ([WE ARE!!](https://www.psu.edu/)) in Information Science and Technology.
 During my year at Penn State, I was very honored to join [CrowdAI Lab](https://crowd.ist.psu.edu/crowd-ai-lab.html), supervised by [Prof. Ting-Hao (Kenneth) Huang](https://crowd.ist.psu.edu/crowd-ai-lab.html). Meanwhile, I was also actively working with [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io) at Academia Sinica, supervised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/).
 <br>
 <br>
