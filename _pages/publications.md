@@ -18,7 +18,7 @@ author_profile: true
 <b>Stretch-VST: Getting Flexible With Visual Stories</b> 
 <br><u>Chi-Yang Hsu</u>, Yun-Wei Chu, Tsai-Lun Yang, Ting-Hao (Kenneth) Huang, Lun-Wei Ku
 <br>
-<i>ACL-IJCNLP Demo Track 2021 (ACL Demo 2021)</i>.  [[DEMO]](https://doraemon.iis.sinica.edu.tw/acldemo/index.html) [[VIDEO]](https://youtu.be/-uF8IV6T1NU) [[PDF]](/files/_ACL21_demo__VIST_Stretch.pdf)
+<i>ACL-IJCNLP Demo Track 2021 (ACL Demo 2021)</i>.  [[DEMO]](https://doraemon.iis.sinica.edu.tw/acldemo/index.html) [[VIDEO]](https://youtu.be/-uF8IV6T1NU) [[PDF]](/files/VST_Stretch.pdf)
 <br>
 
 <b>Using Tweets to Assess Mental Well-being of Essential Workers  During the COVID-19 Pandemic</b> 
