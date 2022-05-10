@@ -8,6 +8,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+<b>Learning to Rank Visual Stories From Human Ranking Data.</b> 
+<br>
+<u>Chi-Yang Hsu</u>, Yun-Wei Chu, Vincent Chen, Kuan-Chieh Lo, Chacha Chen, Ting-Hao K. Huang, Lun-Wei Ku
+<br>
+<i>Proc. 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)</i>.[[Coming Soon]]()
+<br>
+
 <b>Plot and Rework: Modeling Storylines for Visual Storytelling</b> 
 <br>
 <u>Chi-Yang Hsu</u>, Yun-Wei Chu, Ting-Hao (Kenneth) Huang, Lun-Wei Ku
