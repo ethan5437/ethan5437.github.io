@@ -12,7 +12,7 @@ author_profile: true
 <br>
 <u>Chi-Yang Hsu</u>, Yun-Wei Chu, Vincent Chen, Kuan-Chieh Lo, Chacha Chen, Ting-Hao K. Huang, Lun-Wei Ku
 <br>
-<i>Proc. 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)</i>.[[Coming Soon]]()
+<i>Proc. 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)</i>.[[PDF]](https://aclanthology.org/2022.acl-long.441.pdf)
 <br>
 
 <b>Plot and Rework: Modeling Storylines for Visual Storytelling</b> 
