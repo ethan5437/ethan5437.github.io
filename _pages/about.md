@@ -13,7 +13,7 @@ redirect_from:
 Hi, I'm Chi-Yang (Ethan) Hsu. I usually go with "Ethan". 
 
 <br>
-I have received a Master's degree at Penn State University ([WE ARE!!](https://www.psu.edu/)) in Information Science and Technology.
+I received my Bachelor's and Master's degree at Penn State University ([WE ARE!!](https://www.psu.edu/)) in Information Science and Technology.
 During my year at Penn State, I was fortunate to join [CrowdAI Lab](https://crowd.ist.psu.edu/crowd-ai-lab.html), supervised by [Prof. Ting-Hao (Kenneth) Huang](https://crowd.ist.psu.edu/crowd-ai-lab.html). Meanwhile, I was also actively working with [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io) at Academia Sinica, supervised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/). Recently, I've been working as a research intern at University of Washington with [Behavioral Data Science Lab](https://behavioral-data.github.io/), supervised by [Prof. Tim Althoff](http://timalthoff.de/). 
 <br>
 <br>
