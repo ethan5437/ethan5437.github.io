@@ -17,7 +17,7 @@ I have received a Master's degree at Penn State University ([WE ARE!!](https://w
 During my year at Penn State, I was fortunate to join [CrowdAI Lab](https://crowd.ist.psu.edu/crowd-ai-lab.html), supervised by [Prof. Ting-Hao (Kenneth) Huang](https://crowd.ist.psu.edu/crowd-ai-lab.html). Meanwhile, I was also actively working with [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io) at Academia Sinica, supervised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/). Recently, I've been working as a research intern at University of Washington with [Behavioral Data Science Lab](https://behavioral-data.github.io/), supervised by [Prof. Tim Althoff](http://timalthoff.de/). 
 <br>
 <br>
-&#9999;&#65039; [[RESUME]](/files/2021_Resume.pdf) [[CV]](/files/2021_CV.pdf)
+&#9999;&#65039; [[RESUME]](/files/2022_Resume.pdf) [[CV]](/files/2022_CV.pdf)
 <br>
 <br>
 <b>Research Interest</b>
