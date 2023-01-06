@@ -10,7 +10,7 @@ redirect_from:
 <!--<p style="color:orange"><b>Hello</b></p> -->
 
 <br>
-Hi, I'm Chi-Yang (Ethan) Hsu. I usually go with "Ethan". 
+Hi, I'm Chi-Yang Hsu. I usually go with "Ethan". 
 
 <br>
 I received my Bachelor's and Master's degree at [Penn State University](https://www.psu.edu/) in Information Science and Technology.
