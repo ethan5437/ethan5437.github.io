@@ -10,7 +10,7 @@ redirect_from:
 <!--<p style="color:orange"><b>Hello</b></p> -->
 
 <br>
-I'm Chi-Yang Hsu. I usually go with "Ethan". 
+I'm Chi-Yang Hsu. I go by "Ethan". 
 
 <br>
 I received my Bachelor's and Master's degree at [Penn State University](https://www.psu.edu/) in Information Science and Technology.
@@ -23,7 +23,7 @@ During my year at Penn State, I was fortunate to join [CrowdAI Lab](https://crow
 <b>Research Interest</b>
 <br>
 I am broadly interested in machine learning, primarily in (but not limited to) NLP, Vision-to-Language, and Computational Social Science. My past projects mainly focused on vision-to-language generation and evaluation, knowledge graph, machine learning in mental health, and social media analysis. 
-If you have any questions regarding my researches and jobs, please do not hesitate to contact me!
+If you have any questions regarding my research or prior experience, please do not hesitate to contact me!
 <br>
 <br>
 <!-- <p style="color:#F64668">** Update: I'm in the gap year between my Master's and Ph.D. degrees, and I'm now looking for a summer research internship!! :) **</p>-->
