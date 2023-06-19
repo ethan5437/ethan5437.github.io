@@ -17,7 +17,7 @@ I received my Bachelor's and Master's degree at [Penn State University](https://
 During my year at Penn State, I was fortunate to join [CrowdAI Lab](https://crowd.ist.psu.edu/crowd-ai-lab.html), supervised by [Prof. Ting-Hao (Kenneth) Huang](https://crowd.ist.psu.edu/crowd-ai-lab.html). Meanwhile, I was also working with [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io) at Academia Sinica, supervised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/). 
 Recently, I also worked as a research intern at University of Washington with [Behavioral Data Science Lab](https://behavioral-data.github.io/), supervised by [Prof. Tim Althoff](http://timalthoff.de/). 
 <br>
-
+<br>
 I've accepted the offer from UT Austin Ph.D. in Information Studies, and I am very exicted to be working with [Prof. Ying Ding](https://yingding.ischool.utexas.edu/) and [AI Health Lab](https://aihealth.ischool.utexas.edu/) to explore NLP applications in healthcare!!
 <br>
 <br>
