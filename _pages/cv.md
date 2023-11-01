@@ -11,4 +11,4 @@ redirect_from:
 
 CV
 ======
-CV [https://ethan5437.github.io/files/2022_CV.pdf]
+[[CV]](/files/2022_CV.pdf)
