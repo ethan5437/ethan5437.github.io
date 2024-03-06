@@ -9,26 +9,29 @@ redirect_from:
 ---
 <!--<p style="color:orange"><b>Hello</b></p> -->
 
-<br>
-I'm Chi-Yang Hsu. I go by "Ethan". 
+# About me
 
-<br>
-I received my Bachelor's and Master's degree at [Penn State University](https://www.psu.edu/) in Information Science and Technology.
-In 2019, during my year at Penn State, I was fortunate to join [CrowdAI Lab](https://crowd.ist.psu.edu/crowd-ai-lab.html), supervised by [Prof. Ting-Hao (Kenneth) Huang](https://crowd.ist.psu.edu/crowd-ai-lab.html). Meanwhile, I was also working with [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io) at Academia Sinica, supervised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/). 
-In 2021-2023, I also worked as a research intern at University of Washington with [Behavioral Data Science Lab](https://behavioral-data.github.io/), supervised by [Prof. Tim Althoff](http://timalthoff.de/). 
-<br>
-<br>
-Recently, I've accepted the offer from UT Austin Ph.D. in Information Studies, and I am very exicted to be working with [Prof. Ying Ding](https://yingding.ischool.utexas.edu/) and [AI Health Lab](https://aihealth.ischool.utexas.edu/) to explore NLP applications in healthcare!!
-<br>
-<br>
-&#9999;&#65039; [[RESUME]](/files/2022_Resume.pdf) [[CV]](/files/2022_CV.pdf)
-<br>
-<br>
-<b>Research Interests</b>
-<br>
-I am broadly interested in machine learning, primarily in (but not limited to) NLP, Vision-to-Language, and Computational Social Science. My past projects mainly focused on vision-to-language generation and evaluation, knowledge graph, machine learning in mental health, and social media analysis. 
-If you have any questions regarding my prior research or job experience, please feel free to contact me.
-<br>
+I'm Chi-Yang Hsu, but you can call me Ethan. I am currently a first-year Ph.D. student at the University of Texas at Austin, pursuing a Ph.D. in Information Studies. My research is supervised by [Prof. Ying Ding](https://yingding.ischool.utexas.edu/), and I am an active member of the [AI Health Lab](https://aihealth.ischool.utexas.edu/).
+
+## Education and Prior Experience
+
+Before my Ph.D., I obtained both my Bachelor's and Master's degrees in Information Science and Technology from [Penn State University](https://www.psu.edu/). At Penn State in 2019, I had the opportunity to contribute to the [CrowdAI Lab](https://crowd.ist.psu.edu/crowd-ai-lab.html) under the supervision of [Prof. Ting-Hao (Kenneth) Huang](https://crowd.ist.psu.edu/crowd-ai-lab.html). Concurrently, I collaborated with the [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io) at Academia Sinica, led by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/).
+
+From 2021 to 2023, I expanded my research horizons as a research intern at the University of Washington within the [Behavioral Data Science Lab](https://behavioral-data.github.io/), supervised by [Prof. Tim Althoff](http://timalthoff.de/).
+
+## Documents
+
+- [**RESUME**](/files/2022_Resume.pdf)
+- [**CV**](/files/2022_CV.pdf)
+
+## Research Interests
+
+My research interests are broad yet focused, spanning machine learning, with a special focus on Natural Language Processing (NLP), Vision-to-Language, and Computational Social Science. I've dedicated my past projects to exploring vision-to-language generation and evaluation, developing knowledge graphs, applying machine learning to mental health, and analyzing social media.
+
+## Hobbies
+
+In my spare time, I enjoy engaging in sports such as ping pong, badminton, and swimming.
+
 <br>
 <!-- <p style="color:#F64668">** Update: I'm in the gap year between my Master's and Ph.D. degrees, and I'm now looking for a summer research internship!! :) **</p>-->
 
