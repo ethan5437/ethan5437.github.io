@@ -8,7 +8,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<b>Learning to Rank Visual Stories From Human Ranking Data.</b> 
+<b>Thought Graph: Generating Thought Process for Biological Reasoning</b> 
+<br>
+<u>Chi-Yang Hsu</u>, Kyle Cox, Jiawei Xu, Zhen Tan, Tianhua Zhai, Mengzhou Hu, Dexter Pratt, Tianlong Chen, Ziniu Hu, Ying Ding
+<i>WWW '24: Companion Proceedings of the ACM Web Conference 2024 (Web 2024 Short)</i> [[ACM]](https://dl.acm.org/doi/abs/10.1145/3589335.3651572)
+<br>
+
+<b>Learning to Rank Visual Stories From Human Ranking Data</b> 
 <br>
 <u>Chi-Yang Hsu</u>, Yun-Wei Chu, Vincent Chen, Kuan-Chieh Lo, Chacha Chen, Ting-Hao K. Huang, Lun-Wei Ku
 <br>
