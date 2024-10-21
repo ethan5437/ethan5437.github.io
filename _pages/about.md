@@ -20,8 +20,6 @@ Before my Ph.D., I obtained both my Bachelor's and Master's degrees in Informati
 
 My research interests focus on Natural Language Processing (NLP), Explainable AI (XAI), and Computational Social Science. I've dedicated my past projects to exploring confidence estimation, vision-to-language generation and evaluation, and analyzing social media.
 
-In my spare time, I enjoy engaging in sports such as ping pong, badminton, and swimming.
-
 <br>
 <!-- <p style="color:#F64668">** Update: I'm in the gap year between my Master's and Ph.D. degrees, and I'm now looking for a summer research internship!! :) **</p>-->
 
