@@ -1,37 +1,19 @@
 ---
 permalink: /
-title: "Welcome &#x1F680; "
-excerpt: "Welcome	&#x1F680; "
+title: "Welcome"
+excerpt: "Welcome "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<!--<p style="color:orange"><b>Hello</b></p> -->
 
+Hello, I'm **Chi-Yang (Ethan) Hsu**, a second-year Ph.D. student in Information Studies at the [University of Texas at Austin](https://www.utexas.edu/). Under the guidance of [Prof. Matt Lease](https://www.ischool.utexas.edu/~ml/) in the [Laboratory for Artificial Intelligence and Human-Centered Computing (AI&HCC)](https://ai.ischool.utexas.edu/), I focus on bridging the gap between complex AI systems and real-world applications in Natural Language Processing (NLP), Explainable AI (XAI), and Computational Social Science.
 
-I'm Chi-Yang Hsu, but I go by "Ethan". I am a second-year Ph.D. student at the University of Texas at Austin, pursuing a Ph.D. in Information Studies. My research is supervised by [Prof. Matt Lease](https://www.ischool.utexas.edu/~ml/), and I am an active member of the [Laboratory for Artificial Intelligence and Human-Centered Computing (AI&HCC)](https://ai.ischool.utexas.edu/).
+I earned both my Bachelor's and Master's degrees in Information Science and Technology from [Penn State University](https://www.psu.edu/). There, I contributed to the [CrowdAI Lab](https://crowd.ist.psu.edu/crowd-ai-lab.html) with [Prof. Ting-Hao (Kenneth) Huang](https://sites.psu.edu/kennethhuang/), working on crowd-powered AI systems. At the same time, I collaborated with [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/) at Academia Sinica's [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io), exploring multilingual sentiment analysis.
 
-<!-- - [**RESUME**](/files/2024_Resume.pdf) -->
-<!-- - [**CV**](/files/2024_CV.pdf) -->
+From 2021 to 2023, I was a research intern at the [University of Washington](https://www.washington.edu/)'s [Behavioral Data Science Lab](https://behavioral-data.github.io/) under [Prof. Tim Althoff](http://timalthoff.de/). My work involved leveraging social media data to understand human behavior and inform computational models.
 
-
-Before my Ph.D., I obtained both my Bachelor's and Master's degrees in Information Science and Technology from [Penn State University](https://www.psu.edu/). At Penn State in 2019, I had the opportunity to contribute to the [CrowdAI Lab](https://crowd.ist.psu.edu/crowd-ai-lab.html) under the supervision of [Prof. Ting-Hao (Kenneth) Huang](https://crowd.ist.psu.edu/crowd-ai-lab.html). Concurrently, I collaborated with the [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io) at Academia Sinica, led by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/). From 2021 to 2023, I expanded my research horizons as a research intern at the University of Washington within the [Behavioral Data Science Lab](https://behavioral-data.github.io/), supervised by [Prof. Tim Althoff](http://timalthoff.de/).
-
-My research interests focus on Natural Language Processing (NLP), Explainable AI (XAI), and Computational Social Science. I've dedicated my past projects to exploring confidence estimation, vision-to-language generation and evaluation, and analyzing social media.
-
-<br>
-<!-- <p style="color:#F64668">** Update: I'm in the gap year between my Master's and Ph.D. degrees, and I'm now looking for a summer research internship!! :) **</p>-->
-
-<!--LALALA
-======
-Exmaple Template -->
-
-
-<!-- How to edit your site's GitHub repository -->
-<!-- 
-------
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png) -->
+In my projects, I've explored confidence estimation and vision-to-language generation and evaluation. My goal is to make AI technologies more transparent and accessible, enhancing their positive impact on society.
 
 
