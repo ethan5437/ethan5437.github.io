@@ -18,7 +18,7 @@ I'm Chi-Yang Hsu, but you can call me Ethan. I am a second-year Ph.D. student at
 
 Before my Ph.D., I obtained both my Bachelor's and Master's degrees in Information Science and Technology from [Penn State University](https://www.psu.edu/). At Penn State in 2019, I had the opportunity to contribute to the [CrowdAI Lab](https://crowd.ist.psu.edu/crowd-ai-lab.html) under the supervision of [Prof. Ting-Hao (Kenneth) Huang](https://crowd.ist.psu.edu/crowd-ai-lab.html). Concurrently, I collaborated with the [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io) at Academia Sinica, led by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/). From 2021 to 2023, I expanded my research horizons as a research intern at the University of Washington within the [Behavioral Data Science Lab](https://behavioral-data.github.io/), supervised by [Prof. Tim Althoff](http://timalthoff.de/).
 
-My research interests focus on Natural Language Processing (NLP), Vision-to-Language, and Computational Social Science. I've dedicated my past projects to exploring vision-to-language generation and evaluation, developing knowledge graphs, applying machine learning to mental health, and analyzing social media.
+My research interests focus on Natural Language Processing (NLP), Explainable AI (XAI), and Computational Social Science. I've dedicated my past projects to exploring confidence estimation, vision-to-language generation and evaluation, and analyzing social media.
 
 In my spare time, I enjoy engaging in sports such as ping pong, badminton, and swimming.
 
