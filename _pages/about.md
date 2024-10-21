@@ -10,7 +10,7 @@ redirect_from:
 <!--<p style="color:orange"><b>Hello</b></p> -->
 
 
-I'm Chi-Yang Hsu, but you can call me Ethan. I am a second-year Ph.D. student at the University of Texas at Austin, pursuing a Ph.D. in Information Studies. My research is supervised by [Prof. Matt Lease](https://www.ischool.utexas.edu/~ml/), and I am an active member of the [Laboratory for Artificial Intelligence and Human-Centered Computing (AI&HCC)](https://ai.ischool.utexas.edu/).
+I'm Chi-Yang Hsu, but I go by "Ethan". I am a second-year Ph.D. student at the University of Texas at Austin, pursuing a Ph.D. in Information Studies. My research is supervised by [Prof. Matt Lease](https://www.ischool.utexas.edu/~ml/), and I am an active member of the [Laboratory for Artificial Intelligence and Human-Centered Computing (AI&HCC)](https://ai.ischool.utexas.edu/).
 
 <!-- - [**RESUME**](/files/2024_Resume.pdf) -->
 <!-- - [**CV**](/files/2024_CV.pdf) -->
