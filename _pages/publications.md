@@ -8,6 +8,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?user=QvRqZeUAAAAJ&hl=en)}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+<b> Mapping from Meaning: Addressing the Miscalibration of Prompt-Sensitive Language Models </b> 
+<br>
+Kyle Cox, Jiawei Xu, Yikun Han, Rong Xu, Tianhao Li, <u>Chi-Yang Hsu</u>, Tianlong Chen, Walter Gerych, Ying Ding
+<i>Association for the Advancement of Artificial Intelligence 2025 (AAAI 2025)</i> [[To Appear]]()
+<br>
+
+
 <b>Thought Graph: Generating Thought Process for Biological Reasoning</b> 
 <br>
 <u>Chi-Yang Hsu</u>, Kyle Cox, Jiawei Xu, Zhen Tan, Tianhua Zhai, Mengzhou Hu, Dexter Pratt, Tianlong Chen, Ziniu Hu, Ying Ding
