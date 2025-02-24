@@ -11,7 +11,7 @@ author_profile: true
 <b> Mapping from Meaning: Addressing the Miscalibration of Prompt-Sensitive Language Models </b> 
 <br>
 Kyle Cox, Jiawei Xu, Yikun Han, Rong Xu, Tianhao Li, <u>Chi-Yang Hsu</u>, Tianlong Chen, Walter Gerych, Ying Ding
-<i>Association for the Advancement of Artificial Intelligence 2025 (AAAI 2025)</i> [[To Appear]]
+<i>Association for the Advancement of Artificial Intelligence 2025 (AAAI 2025)</i> To Appear
 <br>
 
 
